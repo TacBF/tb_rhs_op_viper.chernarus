@@ -1,0 +1,23 @@
+class CfgSounds
+{
+	class RuRadio
+	{
+		name = "RuRadio";
+		sound[] = {"sound\RuRadio.ogg", 0.20, 1};
+		titles[] = {1, ""};
+	};
+};
+#define TB_loadingScreen_imagePath "viper.jpg"
+//#define TB_loadingScreen_imagePath "\a3\ui_f\data\Logos\arma3_expansion_ca.paa"
+
+onLoadName=$STR_TB_missionTitle_TB_Viper;
+overviewPicture = "viper.jpg";
+author="Gunther.S (TacBF Team)";
+onLoadMission="Tactical Battlefield: Advance and Secure.";
+
+#include "tb_description.sqh"
+#include "tb_settings.hpp"
+#include "tb_objectReplacements.hpp"
+#include "tb_magazineLimitations.hpp"
+#include "tb_supply.hpp"
+#include "tb_vehicleInit.hpp"

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Tactical Battlefield">
+<Package name="Missions">
+
+<Container name="TB_Viper">
+
+	<Key ID="STR_TB_missionTitle_TB_Viper">
+		<Original>Operation Viper</Original>
+		<English>Operation Viper</English>
+		<German>Operation Viper</German>
+		<Italian>Operation Viper</Italian>
+		<Spanish>Operation Viper</Spanish>
+		<French>Operation Viper</French>
+		<Czech>Operation Viper</Czech>
+		<Russian>Operation Viper</Russian>
+		<Polish>Operation Viper</Polish>
+		<Hungarian>Operation Viper</Hungarian>
+	</Key>
+
+	<Key ID="STR_TB_briefingName_TB_Viper">
+		<Original>TacBF A&amp;S[T-10]: Operation Viper</Original>
+		<English>TacBF A&amp;S[T-10]: Operation Viper</English>
+		<German>TacBF A&amp;S[T-10]: Operation Viper</German>
+		<Italian>TacBF A&amp;S[T-10]: Operation Viper</Italian>
+		<Spanish>TacBF A&amp;S[T-10]: Operation Viper</Spanish>
+		<French>TacBF A&amp;S[T-10]: Operation Viper</French>
+		<Czech>TacBF A&amp;S[T-10]: Operation Viper</Czech>
+		<Russian>TacBF A&amp;S[T-10]: Operation Viper</Russian>
+		<Polish>TacBF A&amp;S[T-10]: Operation Viper</Polish>
+		<Hungarian>TacBF A&amp;S[T-10]: Operation Viper</Hungarian>
+	</Key>
+
+</Container>
+
+</Package>
+</Project>
